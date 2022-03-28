@@ -4,5 +4,5 @@ My name is Clément Ducerf and I'm a designer 🎨 and developper 👨🏻‍�
 
 Nothing much here but please enjoy : 
  - https://clementducerf.com
- - https://return.studio
- - https://spaci.ng
+ - https://return.studio [WIP]
+ - https://spaci.ng [WIP]
