@@ -4,7 +4,9 @@ My name is Clément Ducerf and I'm a designer 🎨 and developper 👨🏻‍�
 
 As a developer I help building large ecommerce website :
 
-celine.com
-princessetamtam.com
-comptoirdescotonniers.com
-sisley-paris.com
+|year   | project  |
+| ------------ | ------------ |
+|  2018-2021 |  celine.com |
+|   2021-2022 |  sisley-paris.com |
+|  2022 | princesstamtam.com  |
+|  2022 | comptoirdescotonniers.com  |
