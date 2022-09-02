@@ -4,7 +4,8 @@ My name is Clément Ducerf and I'm a designer 🎨 and developper 👨🏻‍�
 
 As a developer I help building large ecommerce website mainly on the Salesforce SFCC ecommerce Framework
 
-|year   | project  |
+| year(s)   | project(s)  |
 | ------------ | ------------ |
 |  2018-2021 |  celine.com |
-|   2021-2022 |  sisley-paris.com princesstamtam.com comptoirdescotonniers.com|
+| 2022 | princesstamtam.com comptoirdescotonniers.com |
+|   2021-2022 (on going)|  sisley-paris.com |
