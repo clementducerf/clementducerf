@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-My name is Clément Ducerf and I'm a designer 🎨 and developper 👨🏻‍💻 from Paris, France.
+My name is Clément Ducerf and I'm a designer 🎨 and front-end developper 👨🏻‍💻 from Paris, France.
 
 As a developer I help building large ecommerce websites mainly on the Salesforce SFCC ecommerce Framework
 
