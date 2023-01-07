@@ -6,7 +6,7 @@ As a developer I help building large e-commerce websites. Mainly on the Salesfor
 
 | year(s)   | project(s)  |
 | ------------ | ------------ |
-|  2018-2021 |  celine.com |
+| 2018-2021 |  celine.com |
+| 2021-2022 |  sisley-paris.com |
 | 2022 | princesstamtam.com comptoirdescotonniers.com |
-|   2021-2022 |  sisley-paris.com |
-|   2022 (on going)|  kenzo.com |
+| 2022-2023 (on going)|  kenzo.com |
