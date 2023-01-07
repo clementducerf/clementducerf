@@ -2,7 +2,7 @@
 
 My name is Clément Ducerf and I'm a designer 🎨 and front-end developper 👨🏻‍💻 from Paris, France.
 
-As a developer I help building large ecommerce websites mainly on the Salesforce SFCC ecommerce Framework
+As a developer I help building large e-commerce websites. Mainly on the Salesforce SFCC ecommerce Framework.
 
 | year(s)   | project(s)  |
 | ------------ | ------------ |
