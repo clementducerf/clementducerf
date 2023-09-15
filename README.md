@@ -11,3 +11,7 @@ As a developer I help building large e-commerce websites. Mainly on the Salesfor
 | 2022 | princesstamtam.com comptoirdescotonniers.com |
 | 2022-2023 |  kenzo.com |
 | 2023 (on going) | jacquemus.com |
+
+---
+
+As a designer here is [my behance profile](https://www.behance.net/clementducerf), my [dribbble profile](https://dribbble.com/clementducerf), my [personal website](https://www.clementducerf.com).
