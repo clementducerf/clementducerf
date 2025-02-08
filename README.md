@@ -10,7 +10,8 @@ As a developer I help building large e-commerce websites. Mainly on the Salesfor
 | 2021-2022 |  sisley-paris.com | Front-end dév. |
 | 2022 | princesstamtam.com comptoirdescotonniers.com | Front-end dév. |
 | 2022 - 2023 |  kenzo.com | Lead front-end dév. |
-| 2023 (on going) | jacquemus.com | Front-end dév. |
+| 2023 - 2024 | jacquemus.com | Front-end dév. |
+| 2025 - on going | celine.com | Lead Front-end dév. |
 
 ---
 
